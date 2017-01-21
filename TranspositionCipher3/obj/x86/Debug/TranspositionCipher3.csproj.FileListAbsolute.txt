@@ -1,0 +1,30 @@
+C:\Users\mariusz\Desktop\Szyfrowanie\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.exe
+C:\Users\mariusz\Desktop\Szyfrowanie\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.pdb
+C:\Users\mariusz\Desktop\Szyfrowanie\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mariusz\Desktop\Szyfrowanie\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.exe
+C:\Users\mariusz\Desktop\Szyfrowanie\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2010\Projects\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.exe
+C:\Users\Mariusz\Documents\Visual Studio 2010\Projects\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2010\Projects\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.exe
+C:\Users\Mariusz\Documents\Visual Studio 2010\Projects\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2010\Projects\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.exe
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.pdb
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.exe
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.pdb
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.exe
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.pdb
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.exe
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.pdb
+E:\Szyfrowanie\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.exe
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.pdb
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.exe
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.pdb
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.exe
+D:\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\bin\Debug\TranspositionCipher3.pdb
+D:\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.csprojResolveAssemblyReference.cache
+D:\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.exe
+D:\Projects\Zjazd_1\TranspositionCipher3\TranspositionCipher3\obj\x86\Debug\TranspositionCipher3.pdb

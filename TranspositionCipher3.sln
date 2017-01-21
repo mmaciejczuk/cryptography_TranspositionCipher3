@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranspositionCipher3", "TranspositionCipher3\TranspositionCipher3.csproj", "{CB7071FB-F42A-4AF0-9391-EAA7A173BFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB7071FB-F42A-4AF0-9391-EAA7A173BFBB}.Debug|x86.ActiveCfg = Debug|x86
+		{CB7071FB-F42A-4AF0-9391-EAA7A173BFBB}.Debug|x86.Build.0 = Debug|x86
+		{CB7071FB-F42A-4AF0-9391-EAA7A173BFBB}.Release|x86.ActiveCfg = Release|x86
+		{CB7071FB-F42A-4AF0-9391-EAA7A173BFBB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
